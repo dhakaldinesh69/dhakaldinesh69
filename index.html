@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our E-commerce Site</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#search">Search</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="banner">
+        <h2>Discover our amazing products</h2>
+    </section>
+
+    <section id="products">
+        <h3>Browse by Category</h3>
+        <button onclick="fetchCategory('books')">Books</button>
+        <button onclick="fetchCategory('electronics')">Electronics</button>
+        <button onclick="fetchCategory('perfume')">Perfume</button>
+        <table id="productTable">
+            <!-- Product data will appear here -->
+        </table>
+    </section>
+
+    <section id="search">
+        <h3>Search Products</h3>
+        <form id="searchForm" onsubmit="searchProducts(event)">
+            <label for="keyword">Search by keyword (ID or Name):</label>
+            <input type="text" id="keyword" name="keyword" required>
+            <label for="priceRange">Search by price range:</label>
+            <input type="number" id="minPrice" name="minPrice" placeholder="Min" min="0">
+            <input type="number" id="maxPrice" name="maxPrice" placeholder="Max" min="0">
+            <button type="submit">Search</button>
+        </form>
+        <table id="searchResults">
+            <!-- Search results will appear here -->
+        </table>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 E-commerce Website</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,236 @@
+
+<root>
+  <Electronics_1>
+    <item>
+      <Id>e1</Id>
+      <Product_name>vivo Y11s 4G Smx</Product_name>
+      <Price>197</Price>
+      <Wireless_carrier>Unlocked for All Carriers</Wireless_carrier>
+      <Brand>VIVO</Brand>
+      <Colour>Black</Colour>
+      <Memory>3 GB</Memory>
+      <Screen_size>6.51 Inches</Screen_size>
+      <Operating_system>Android</Operating_system>
+    </item>
+    <item>
+      <Id>e2</Id>
+      <Product_name>Samsung Galaxy</Product_name>
+      <Price>294.26</Price>
+      <Wireless_carrier>Unlocked for All Carriers</Wireless_carrier>
+      <Brand>Samsung</Brand>
+      <Colour>White</Colour>
+      <Memory>128 GB</Memory>
+      <Screen_size>6 Inches</Screen_size>
+      <Operating_system>Android 10.0</Operating_system>
+    </item>
+    <item>
+      <Id>e3</Id>
+      <Product_name>Nokia 2720 Flip 4</Product_name>
+      <Price>114</Price>
+      <Wireless_carrier>Unlocked for All Carriers</Wireless_carrier>
+      <Brand>Nokia</Brand>
+      <Colour>Ocean Blue</Colour>
+      <Memory>4 GB</Memory>
+      <Screen_size>Unknown</Screen_size>
+      <Operating_system>KaiOS</Operating_system>
+    </item>
+    <item>
+      <Id>e4</Id>
+      <Product_name>Apple iPhone 12</Product_name>
+      <Price>2,019.00</Price>
+      <Wireless_carrier>Unlocked for All Carriers</Wireless_carrier>
+      <Brand>Apple</Brand>
+      <Colour>Gold</Colour>
+      <Memory>6 GB</Memory>
+      <Screen_size>6.7 Inches</Screen_size>
+      <Operating_system>iOS</Operating_system>
+    </item>
+  </Electronics_1>
+
+  <Electronics_2>
+    <item>
+      <Id>e5</Id>
+      <Product_name>Dell Inspiron 15</Product_name>
+      <Price>748.07</Price>
+      <Brand>DELL</Brand>
+      <OS>Windows</OS>
+      <CPU>Intel</CPU>
+      <Screen_size>15.6 Inches</Screen_size>
+      <Computer_memory>8 GB</Computer_memory>
+      <Hard_disk_size>N/A</Hard_disk_size>
+    </item>
+    <item>
+      <Id>e6</Id>
+      <Product_name>Huawei MateBook</Product_name>
+      <Price>831.93</Price>
+      <Brand>HUAWEI</Brand>
+      <OS>Windows</OS>
+      <CPU>AMD</CPU>
+      <Screen_size>15.6 Inches</Screen_size>
+      <Computer_memory>8 GB</Computer_memory>
+      <Hard_disk_size>N/A</Hard_disk_size>
+    </item>
+    <item>
+      <Id>e7</Id>
+      <Product_name>Lenovo Ideapad</Product_name>
+      <Price>395</Price>
+      <Brand>Lenovo</Brand>
+      <OS>Chrome OS</OS>
+      <CPU>Others</CPU>
+      <Screen_size>10.1 Inches</Screen_size>
+      <Computer_memory>4 GB</Computer_memory>
+      <Hard_disk_size>N/A</Hard_disk_size>
+    </item>
+    <item>
+      <Id>e8</Id>
+      <Product_name>Apple MacBook</Product_name>
+      <Price>4,779.00</Price>
+      <Brand>Apple</Brand>
+      <OS>Mac OS X</OS>
+      <CPU>Intel</CPU>
+      <Screen_size>12 Inches</Screen_size>
+      <Computer_memory>8 GB</Computer_memory>
+      <Hard_disk_size>1 TB</Hard_disk_size>
+    </item>
+  </Electronics_2>
+
+  <Perfume>
+    <item>
+      <id>p1</id>
+      <Product_name>Calvin Klein</Product_name>
+      <Price>39.99</Price>
+      <Brand>Calvin Klein</Brand>
+      <Ingredient>Alcohol</Ingredient>
+      <Item_weight>1 Pounds</Item_weight>
+    </item>
+    <item>
+      <id>p2</id>
+      <Product_name>Burberry</Product_name>
+      <Price>49.99</Price>
+      <Brand>BURBERRY</Brand>
+      <Ingredient>Alcohol</Ingredient>
+      <Item_weight>100 Grams</Item_weight>
+    </item>
+    <item>
+      <id>p13</id>
+      <Product_name>Jimmy Choo</Product_name>
+      <Price>71.99</Price>
+      <Brand>JIMMY CHOO</Brand>
+      <Ingredient>Water, alcohol</Ingredient>
+      <Item_weight>0.37 Kilograms</Item_weight>
+    </item>
+    <item>
+      <id>p25</id>
+      <Product_name>Lancome</Product_name>
+      <Price>139.99</Price>
+      <Brand>Lancome</Brand>
+      <Ingredient>ALCOHOL</Ingredient>
+      <Item_weight>1 Pounds</Item_weight>
+    </item>
+    <item>
+      <id>p28</id>
+      <Product_name>Roja Parfum</Product_name>
+      <Price>2,500.00</Price>
+      <Brand>Roja Parfum</Brand>
+      <Ingredient>N/A</Ingredient>
+      <Item_weight>N/A</Item_weight>
+    </item>
+  </Perfume>
+
+  <Books>
+    <item>
+      <id>b1</id>
+      <Book_name>The Power</Book_name>
+      <description>The Power</description>
+      <price>16.33</price>
+      <author>Charles D</author>
+      <type>hardcover</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>business</category>
+    </item>
+    <item>
+      <id>b2</id>
+      <Book_name>Think and Grow Rich</Book_name>
+      <description>Think and Grow Rich</description>
+      <price>8.98</price>
+      <author>Napoleon</author>
+      <type>hardcover</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>business</category>
+    </item>
+    <item>
+      <id>b3</id>
+      <Book_name>The 7 Habits of Highly Effective People</Book_name>
+      <description>The 7 Habits</description>
+      <price>11.48</price>
+      <author>Stephen R</author>
+      <type>paperback</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>business</category>
+    </item>
+    <item>
+      <id>b4</id>
+      <Book_name>Principles</Book_name>
+      <description>Principles</description>
+      <price>18</price>
+      <author>Ray Dalio</author>
+      <type>hardcover</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>business</category>
+    </item>
+    <item>
+      <id>b5</id>
+      <Book_name>How to Win Friends and Influence People</Book_name>
+      <description>How to Win Friends</description>
+      <price>9.16</price>
+      <author>Dale Carnegie</author>
+      <type>paperback</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>cookbooks</category>
+    </item>
+    <item>
+      <id>b6</id>
+      <Book_name>The World Since 2000</Book_name>
+      <description>The World Since 2000</description>
+      <price>18.96</price>
+      <author>Melissa H</author>
+      <type>hardcover</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>business</category>
+    </item>
+    <item>
+      <id>b7</id>
+      <Book_name>The Food Lover's Companion</Book_name>
+      <description>The Food Lover's</description>
+      <price>33.94</price>
+      <author>Linda H</author>
+      <type>hardcover</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>cookbooks</category>
+    </item>
+    <item>
+      <id>b8</id>
+      <Book_name>True Fiction</Book_name>
+      <description>True Fiction</description>
+      <price>4.99</price>
+      <author>Lee Goldberg</author>
+      <type>paperback</type>
+      <img>https://link</img>
+      <inCart>FALSE</inCart>
+      <category>mystery</category>
+    </item>
+    <item>
+      <id>b9</id>
+      <Book_name>The Last FBI Agent</Book_name>
+      <description>The Last FBI Agent</description>
+      <price>7 </price>
+      </item>
+      </Books>
+      </root>

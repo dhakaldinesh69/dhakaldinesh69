@@ -1,0 +1,271 @@
+{
+    "Electronics_1": [
+      {
+        "Id": "e1",
+        "Product name": "vivo Y11s 4G Smx",
+        "Price": "197",
+        "Wireless carrier": "Unlocked for All Carriers",
+        "Brand": "VIVO",
+        "Colour": "Black",
+        "Memory": "3 GB",
+        "Screen size": "6.51 Inches",
+        "Operating system": "Android"
+      },
+      {
+        "Id": "e2",
+        "Product name": "Samsung Galaxy",
+        "Price": "294.26",
+        "Wireless carrier": "Unlocked for All Carriers",
+        "Brand": "Samsung",
+        "Colour": "White",
+        "Memory": "128 GB",
+        "Screen size": "6 Inches",
+        "Operating system": "Android 10.0"
+      },
+      {
+        "Id": "e3",
+        "Product name": "Nokia 2720 Flip 4",
+        "Price": "114",
+        "Wireless carrier": "Unlocked for All Carriers",
+        "Brand": "Nokia",
+        "Colour": "Ocean Blue",
+        "Memory": "4 GB",
+        "Screen size": "Unknown",
+        "Operating system": "KaiOS"
+      },
+      {
+        "Id": "e4",
+        "Product name": "Apple iPhone 12",
+        "Price": "2,019.00",
+        "Wireless carrier": "Unlocked for All Carriers",
+        "Brand": "Apple",
+        "Colour": "Gold",
+        "Memory": "6 GB",
+        "Screen size": "6.7 Inches",
+        "Operating system": "iOS"
+      }
+    ],
+    "Electronics_2": [
+      {
+        "Id": "e5",
+        "Product name": "Dell Inspiron 15",
+        "Price": "748.07",
+        "Brand": "DELL",
+        "OS": "Windows",
+        "CPU": "Intel",
+        "Screen size": "15.6 Inches",
+        "Computer memory": "8 GB",
+        "Hard disk size": "N/A"
+      },
+      {
+        "Id": "e6",
+        "Product name": "Huawei MateBook",
+        "Price": "831.93",
+        "Brand": "HUAWEI",
+        "OS": "Windows",
+        "CPU": "AMD",
+        "Screen size": "15.6 Inches",
+        "Computer memory": "8 GB",
+        "Hard disk size": "N/A"
+      },
+      {
+        "Id": "e7",
+        "Product name": "Lenovo Ideapad",
+        "Price": "395",
+        "Brand": "Lenovo",
+        "OS": "Chrome OS",
+        "CPU": "Others",
+        "Screen size": "10.1 Inches",
+        "Computer memory": "4 GB",
+        "Hard disk size": "N/A"
+      },
+      {
+        "Id": "e8",
+        "Product name": "Apple MacBook",
+        "Price": "4,779.00",
+        "Brand": "Apple",
+        "OS": "Mac OS X",
+        "CPU": "Intel",
+        "Screen size": "12 Inches",
+        "Computer memory": "8 GB",
+        "Hard disk size": "1 TB"
+      }
+    ],
+    "Perfume": [
+      {
+        "id": "p1",
+        "Product name": "Calvin Klein",
+        "Price": "39.99",
+        "Brand": "Calvin Klein",
+        "Ingredient": "Alcohol",
+        "Item weight": "1 Pounds"
+      },
+      {
+        "id": "p2",
+        "Product name": "Burberry",
+        "Price": "49.99",
+        "Brand": "BURBERRY",
+        "Ingredient": "Alcohol",
+        "Item weight": "100 Grams"
+      },
+      {
+        "id": "p13",
+        "Product name": "Jimmy Choo",
+        "Price": "71.99",
+        "Brand": "JIMMY CHOO",
+        "Ingredient": "Water, alcohol",
+        "Item weight": "0.37 Kilograms"
+      },
+      {
+        "id": "p25",
+        "Product name": "Lancome",
+        "Price": "139.99",
+        "Brand": "Lancome",
+        "Ingredient": "ALCOHOL",
+        "Item weight": "1 Pounds"
+      },
+      {
+        "id": "p28",
+        "Product name": "Roja Parfum",
+        "Price": "2,500.00",
+        "Brand": "Roja Parfum",
+        "Ingredient": "N/A",
+        "Item weight": "N/A"
+      }
+    ],
+    "Book": [
+      {
+        "id": "b1",
+        "Book name": "The Power",
+        "description": "The Power",
+        "price": "16.33",
+        "author": "Charles D",
+        "type": "hardcover",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "business"
+      },
+      {
+        "id": "b2",
+        "Book name": "Think and Grow Rich",
+        "description": "Think and Grow Rich",
+        "price": "8.98",
+        "author": "Napoleon",
+        "type": "hardcover",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "business"
+      },
+      {
+        "id": "b3",
+        "Book name": "The 7 Habits of Highly Effective People",
+        "description": "The 7 Habits",
+        "price": "11.48",
+        "author": "Stephen R",
+        "type": "paperback",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "business"
+      },
+      {
+        "id": "b4",
+        "Book name": "Principles",
+        "description": "Principles",
+        "price": "18",
+        "author": "Ray Dalio",
+        "type": "hardcover",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "business"
+      },
+      {
+        "id": "b5",
+        "Book name": "How to Win Friends and Influence People",
+        "description": "How to Win Friends",
+        "price": "9.16",
+        "author": "Dale Carnegie",
+        "type": "paperback",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "cookbooks"
+      },
+      {
+        "id": "b6",
+        "Book name": "The World Since 2000",
+        "description": "The World Since 2000",
+        "price": "18.96",
+        "author": "Melissa H",
+        "type": "hardcover",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "business"
+      },
+      {
+        "id": "b7",
+        "Book name": "The Food Lover's Companion",
+        "description": "The Food Lover's",
+        "price": "33.94",
+        "author": "Linda H",
+        "type": "hardcover",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "cookbooks"
+      },
+      {
+        "id": "b8",
+        "Book name": "True Fiction",
+        "description": "True Fiction",
+        "price": "4.99",
+        "author": "Lee Goldberg",
+        "type": "paperback",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "mystery"
+      },
+      {
+        "id": "b9",
+        "Book name": "The Last FBI Agent",
+        "description": "The Last FBI Agent",
+        "price": "7.91",
+        "author": "Mary Burt",
+        "type": "paperback",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "mystery"
+      },
+      {
+        "id": "b12",
+        "Book name": "Stillhouse Lake",
+        "description": "Stillhouse Lake",
+        "price": "8.96",
+        "author": "Rachel Caine",
+        "type": "paperback",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "mystery"
+      },
+      {
+        "id": "b13",
+        "Book name": "Harry Potter",
+        "description": "Harry Potter",
+        "price": "14.24",
+        "author": "J.K. Rowling",
+        "type": "hardcover",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "scifi"
+      },
+      {
+        "id": "b17",
+        "Book name": "A Game of Thrones",
+        "description": "A Game of Thrones",
+        "price": "23.16",
+        "author": "George R.R. Martin",
+        "type": "hardcover",
+        "img": "https://link",
+        "inCart": "FALSE",
+        "category": "scifi"
+      }
+    ]
+}
+  
